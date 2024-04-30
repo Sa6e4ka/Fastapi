@@ -1,0 +1,152 @@
+{
+    "success": true,
+    "meta": {
+        "time": "2024-04-26T15:56:59Z",
+        "traceId": "11986f4514235b44",
+        "requestId": "2fe22x9BX6vhgMQwmroO1Yumj3q",
+        "appVersion": "mgate:4072074"
+    },
+    "errors": [],
+    "suggests": [
+        {
+            "type": "CONSTRUCTOR",
+            "typeDisplayText": "",
+            "text": "мон",
+            "searchParams": [
+                {
+                    "suggestQueryType": "PROMPT",
+                    "queryPayload": "монитор",
+                    "suggestType": "CONSTRUCTOR"
+                },
+                {
+                    "suggestQueryType": "PREFIX_CONST",
+                    "queryPayload": "",
+                    "suggestType": "CONSTRUCTOR"
+                },
+                {
+                    "suggestQueryType": "PREFIX_FLEX",
+                    "queryPayload": "мон",
+                    "suggestType": "CONSTRUCTOR"
+                }
+            ],
+            "additionalInfo": {
+                "brandZone": null,
+                "popularItem": null,
+                "category": null
+            },
+            "typeDisplayImageUrl": ""
+        },
+        {
+            "type": "CONSTRUCTOR",
+            "typeDisplayText": "",
+            "text": "мон",
+            "searchParams": [
+                {
+                    "suggestQueryType": "PROMPT",
+                    "queryPayload": "монитор 27",
+                    "suggestType": "CONSTRUCTOR"
+                },
+                {
+                    "suggestQueryType": "PREFIX_CONST",
+                    "queryPayload": "",
+                    "suggestType": "CONSTRUCTOR"
+                },
+                {
+                    "suggestQueryType": "PREFIX_FLEX",
+                    "queryPayload": "мон",
+                    "suggestType": "CONSTRUCTOR"
+                }
+            ],
+            "additionalInfo": {
+                "brandZone": null,
+                "popularItem": null,
+                "category": null
+            },
+            "typeDisplayImageUrl": ""
+        },
+        {
+            "type": "CONSTRUCTOR",
+            "typeDisplayText": "",
+            "text": "мон",
+            "searchParams": [
+                {
+                    "suggestQueryType": "PROMPT",
+                    "queryPayload": "монитор 144 гц",
+                    "suggestType": "CONSTRUCTOR"
+                },
+                {
+                    "suggestQueryType": "PREFIX_CONST",
+                    "queryPayload": "",
+                    "suggestType": "CONSTRUCTOR"
+                },
+                {
+                    "suggestQueryType": "PREFIX_FLEX",
+                    "queryPayload": "мон",
+                    "suggestType": "CONSTRUCTOR"
+                }
+            ],
+            "additionalInfo": {
+                "brandZone": null,
+                "popularItem": null,
+                "category": null
+            },
+            "typeDisplayImageUrl": ""
+        },
+        {
+            "type": "CONSTRUCTOR",
+            "typeDisplayText": "",
+            "text": "мон",
+            "searchParams": [
+                {
+                    "suggestQueryType": "PROMPT",
+                    "queryPayload": "монитор xiaomi",
+                    "suggestType": "CONSTRUCTOR"
+                },
+                {
+                    "suggestQueryType": "PREFIX_CONST",
+                    "queryPayload": "",
+                    "suggestType": "CONSTRUCTOR"
+                },
+                {
+                    "suggestQueryType": "PREFIX_FLEX",
+                    "queryPayload": "мон",
+                    "suggestType": "CONSTRUCTOR"
+                }
+            ],
+            "additionalInfo": {
+                "brandZone": null,
+                "popularItem": null,
+                "category": null
+            },
+            "typeDisplayImageUrl": ""
+        },
+        {
+            "type": "CONSTRUCTOR",
+            "typeDisplayText": "",
+            "text": "мон",
+            "searchParams": [
+                {
+                    "suggestQueryType": "PROMPT",
+                    "queryPayload": "монитор 27 дюймов",
+                    "suggestType": "CONSTRUCTOR"
+                },
+                {
+                    "suggestQueryType": "PREFIX_CONST",
+                    "queryPayload": "",
+                    "suggestType": "CONSTRUCTOR"
+                },
+                {
+                    "suggestQueryType": "PREFIX_FLEX",
+                    "queryPayload": "мон",
+                    "suggestType": "CONSTRUCTOR"
+                }
+            ],
+            "additionalInfo": {
+                "brandZone": null,
+                "popularItem": null,
+                "category": null
+            },
+            "typeDisplayImageUrl": ""
+        }
+    ]
+}
